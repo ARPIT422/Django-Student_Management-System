@@ -50,7 +50,7 @@ A **Student** has limited access. They can:
 ---
 
 ## Project Link
-[**Student Management System on PythonAnywhere**](https://lnkd.in/gZJNjgaf)
+[**Student Management System on PythonAnywhere**](https://arpit409.pythonanywhere.com/)
 
 ---
 
